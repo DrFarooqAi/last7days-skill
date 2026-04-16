@@ -12,6 +12,11 @@ pinned: false
 
 # 🔍 Last7Days Skill App
 
+![Banner](assets/banner.png)
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/farooqgenai/last7days-skill)
+[![GitHub](https://img.shields.io/badge/GitHub-DrFarooqAi-181717?style=for-the-badge&logo=github)](https://github.com/DrFarooqAi/last7days-skill)
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Sources](https://img.shields.io/badge/Sources-5_Platforms-purple)
@@ -21,6 +26,10 @@ pinned: false
 > No API keys. No signup. Pure signal from real communities.
 
 **Built by Dr. Farooq**
+
+## Demo
+
+<video src="assets/demo.mp4" controls width="100%"></video>
 
 ---
 
