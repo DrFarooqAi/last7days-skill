@@ -1,3 +1,15 @@
+---
+title: Last7Days Skill App
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.35.0"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
 # 🔍 Last7Days Skill App
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
