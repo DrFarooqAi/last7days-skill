@@ -12,7 +12,7 @@ pinned: false
 
 # 🔍 Last7Days Skill App
 
-![Banner](assets/banner.png)
+![Banner](https://raw.githubusercontent.com/DrFarooqAi/last7days-skill/main/assets/banner.png)
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/farooqgenai/last7days-skill)
 [![GitHub](https://img.shields.io/badge/GitHub-DrFarooqAi-181717?style=for-the-badge&logo=github)](https://github.com/DrFarooqAi/last7days-skill)
@@ -29,7 +29,7 @@ pinned: false
 
 ## Demo
 
-<video src="assets/demo.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/DrFarooqAi/last7days-skill/main/assets/demo.mp4" controls width="100%"></video>
 
 ---
 
