@@ -3,10 +3,7 @@ Web search adapter — Last7Days Skill App
 Author: Dr. Farooq
 Uses DuckDuckGo search via duckduckgo-search library. No API key required.
 """
-try:
-    from ddgs import DDGS
-except ImportError:
-    from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 
 def fetch(query: str, limit: int = 10) -> list[dict]:
